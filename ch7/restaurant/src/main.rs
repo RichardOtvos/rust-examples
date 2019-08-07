@@ -1,3 +1,5 @@
+use restaurant::eat_at_restaurant;
+
 fn main(){
-    println!("Lib example");
+    eat_at_restaurant();
 }
